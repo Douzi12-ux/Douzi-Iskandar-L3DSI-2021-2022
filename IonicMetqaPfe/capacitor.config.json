@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "IonicMetqaPfe",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
